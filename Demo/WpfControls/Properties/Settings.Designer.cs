@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bar.Properties
+namespace WpfControls.Properties
 {
     
     

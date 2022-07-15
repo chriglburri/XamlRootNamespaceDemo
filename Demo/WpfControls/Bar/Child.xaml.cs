@@ -15,14 +15,14 @@ using System.Windows.Shapes;
 
 namespace Bar
 {
-    /// <summary>
-    /// Interaction logic for UserControl1.xaml
-    /// </summary>
-    public partial class ChildControl : UserControl
+  /// <summary>
+  /// Interaction logic for Child.xaml
+  /// </summary>
+  public partial class Child : UserControl
+  {
+    public Child()
     {
-        public ChildControl()
-        {
-            InitializeComponent();
-        }
+      InitializeComponent();
     }
+  }
 }
